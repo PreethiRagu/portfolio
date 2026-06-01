@@ -5,7 +5,7 @@ A premium, futuristic developer portfolio built with **React 19**, **TanStack St
 
 ## Live Site
 
-**[https://preethiraghu.lovable.app](https://preethiraghu.vercel.app/)**
+**[https://preethiraghu.lovable.app](https://preethiraghu.vercel.app)**
 
 ---
 
